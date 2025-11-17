@@ -236,14 +236,7 @@ p{
 .brands img:hover{
   filter:grayscale(0%);
 }
-/* Left Car */
-.left { 
-  display: flex;
-  justify-content: flex-start;
-}
+
 .car2 {
-  width: 600px;
- 
+  max-width: 650px;
 }
-
-
