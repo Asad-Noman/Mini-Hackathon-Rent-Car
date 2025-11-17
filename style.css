@@ -240,13 +240,10 @@ p{
 .left { 
   display: flex;
   justify-content: flex-start;
-
-  /* justify-content: flex-end; */
 }
 .car2 {
-  width: 100%;
-  max-width: 650px;
-  filter: drop-shadow(0px 10px 30px rgba(0,0,0,0.15));
+  width: 600px;
+ 
 }
 
 
